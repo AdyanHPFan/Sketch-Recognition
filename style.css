@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(black, purple, blue, aqua) ;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-family: 'Lilita One', cursive;
+}
+
+#label{
+    color: violet;
+    font-size: 40px;
+    font-family: 'Neonderthaw', cursive;
+    padding-top: 10px;
+}
+
+#confidence{
+    color: thistle;
+    font-size: 40px;
+    font-family: 'Neonderthaw', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#show_sketch{
+    float: right;
+}
